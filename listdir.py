@@ -1,6 +1,7 @@
 #-*- coding: utf-8 -*-
 
 #遍历目录，目录名通过参数输入
+#如: python listdir.py /home/abc
 
 from sys import argv
 
